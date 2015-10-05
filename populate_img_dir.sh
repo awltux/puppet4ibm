@@ -1,0 +1,2 @@
+wget --directory-prefix=../img/ISO_IMAGES --no-clobber 'http://vault.centos.org/6.6/isos/x86_64/CentOS-6.6-x86_64-bin-DVD1.iso'
+wget --directory-prefix=../img/ISO_IMAGES --no-clobber 'http://vault.centos.org/6.6/isos/x86_64/CentOS-6.6-x86_64-bin-DVD2.iso'
