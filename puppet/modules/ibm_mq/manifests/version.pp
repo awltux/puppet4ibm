@@ -1,3 +1,3 @@
-class rbsgrp_mq::version {
-   notify {"rbsgrp_mq::version": }
+class ibm_mq::version {
+   notify {"ibm_mq::version": }
 }
